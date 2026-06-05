@@ -1,5 +1,5 @@
 # TariqShahnewaz-
-<h1>About Me:<h1>
+<h>About Me:<h>
 
 Hi, I'm Tariq Shahnewaz Al-Riyadh <br>
 🎓 Computer Science Student
