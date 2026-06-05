@@ -1,7 +1,7 @@
 # TariqShahnewaz-
 <h>About Me:<h>
-<br>
-Hi, I'm Tariq Shahnewaz Al-Riyadh<br>
+
+Hi, I'm Tariq Shahnewaz Al-Riyadh
 🎓 Computer Science Student
 
 💻 Competitive Programmer
