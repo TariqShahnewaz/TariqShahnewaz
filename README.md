@@ -1,5 +1,5 @@
 # TariqShahnewaz
-<h>About Me:</h>
+<h1>About Me:</h1>
 
 Hi, I'm Tariq Shahnewaz Al-Riyadh
 
