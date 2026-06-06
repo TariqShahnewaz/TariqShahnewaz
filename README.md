@@ -9,3 +9,7 @@ Hi, I'm Tariq Shahnewaz Al-Riyadh
 
 🌱 Currently learning Software Development
 
+<h2>🌐 Socials:</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+
